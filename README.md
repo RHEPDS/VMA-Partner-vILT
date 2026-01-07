@@ -41,25 +41,24 @@ There is a unique market opportunity now (as of CY25) for Red Hat to support cus
 10:35 - 10:45 BREAK
 
 10:45 - 12:00
-+ Access to the Hands-On Lab
-+ LAB - OpenShift Virtualization Basics
-+ LAB - Network Management
-+ LAB - Storage Management
++ VMware vSphere Overview Presentation
++ VMware to OpenShift Presentation
 
 12:00 - 13:00 LUNCH BREAK
 
 13:00 - 14:45
-+ VMware vSphere Overview Presentation
-+ VMware to OpenShift Presentation
 
-14:45 - 15:00 BREAK
-
-15:00 - 15:45
 + Citrix VDI
 + Migration Factory
 
-15:45 - 17:00
+14:45 - 15:00 BREAK
 
+15:00 - 17:00
+
++ Access to the Hands-On Lab
++ LAB - OpenShift Virtualization Basics
++ LAB - Network Management
++ LAB - Storage Management
 + LAB - Migration from VMware to OpenShift
 
 ----------------
